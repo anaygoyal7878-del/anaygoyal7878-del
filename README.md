@@ -6,15 +6,13 @@ I'm looking for software engineering opportunities.
 
 ## What I'm working on
 
-**[MoodSync](https://github.com/anaygoyal7878-del/moodsync)**
-A platform that connects wearable health data to the smart home. A decision
+**[MoodSync](https://github.com/anaygoyal7878-del/moodsync)**: a platform that connects wearable health data to the smart home. A decision
 engine reads biometrics from devices like WHOOP and Fitbit and adjusts lights
 and music through Philips Hue and Spotify, with a text message assistant on
 top. TypeScript monorepo with a Next.js app, a Fastify API, PostgreSQL, a Swift
 iOS companion and CI on every push.
 
-**Nature's Note**
-A full stack ecommerce site for my own fragrance brand, with a scent quiz,
+**Nature's Note**: a full stack ecommerce site for my own fragrance brand, with a scent quiz,
 Stripe checkout and a role separated studio portal for my content team.
 Built on React, TypeScript and Supabase. Live at
 [natures-note-cologne.lovable.app](https://natures-note-cologne.lovable.app).
