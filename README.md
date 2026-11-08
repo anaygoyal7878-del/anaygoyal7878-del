@@ -29,27 +29,7 @@ The intelligence layer between wearable health data (Fitbit, WHOOP, Garmin) and 
 A pixel art, side scrolling history game about civic duty, from the founding era to today. One HTML file with no build step: era changing visuals, animated scenes, generated sound and a guided demo mode.
 
 **Fire risk prediction for the City of McKinney** · *Research*
-A model in progress that scores fire risk from 2010 to 2025 municipal data, so a city can weigh inspection cost against fire loss. Developed with an SMU professor using open city data, discussed with the City of McKinney, and registered for the Dallas Regional Science and Engineering Fair (Software Design).
-
----
-
-### Recognition
-
-| | |
-|---|---|
-| 🥇 **1st Place**, SMU Cox School of Business Pitch Competition | 🥇 **1st Place**, Frisco ISD District Pitch Competition |
-| 🌎 **DECA International Qualifier** | 🏆 **DECA State Finalist**, Automotive Services |
-| 💼 **$2,100+ revenue**, Nature's Note | 🚀 **9K Club** startup incubator |
-| ⚖️ **Legal Intern**, Trilegal (Tier 1 law firm), 2025 | 🏛️ **Texas Youth & Government**, District Champion and State Qualifier |
-
----
-
-### Also
-
-- **Geeti's Art by Heart** · built and run the website, ecommerce and Instagram, and helped grow it past $15K in sales
-- **ReviveXR** · intern at a senior care VR startup
-- Research paper on third places and community resilience
-- ASDFW Youth Club · Membership and Marketing Director
+A model in progress that scores fire risk from 2010 to 2025 municipal data, so a city can weigh inspection cost against fire loss. Developed with an SMU professor using open city data and discussed with the City of McKinney.
 
 ---
 
