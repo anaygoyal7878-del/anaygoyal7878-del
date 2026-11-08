@@ -1,7 +1,8 @@
 - 👋 Hi, I'm Anay Goyal
 - 🌿 I'm the founder of Nature's Note, a men's fragrance brand. I built the whole site and store myself: [naturesnotefragrances.com](https://naturesnotefragrances.com)
+- 🔬 I do machine learning modeling and research. My current project is a fire risk prediction model built on City of McKinney data.
 - 🔭 I'm interested in where software, AI and law meet.
-- 🛠️ I build full stack apps and products across web and iOS.
+- 🛠️ I also build full stack apps and products across web and iOS.
 - 🌱 I'm currently working in TypeScript, React, Next.js, Node.js, Fastify, PostgreSQL, Supabase, Tailwind and Swift.
 - 🎮 I'm building [MoodSync](https://github.com/anaygoyal7878-del/moodsync), which connects wearable health data to the smart home, and made [Personal Duty](https://github.com/anaygoyal7878-del/personal-duty), a pixel art history game you can [play in your browser](https://anaygoyal7878-del.github.io/personal-duty/).
 - 🤝 I'm looking for software engineering opportunities.
