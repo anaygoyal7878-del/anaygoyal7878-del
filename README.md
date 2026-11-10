@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Anay Goyal
-- 🌿 I'm the founder of Nature's Note, a men's fragrance brand. I built the whole site and store myself: [naturesnotefragrances.com](https://naturesnotefragrances.com)
-- 🔬 I do machine learning modeling and research: fire prediction modeling, ML algorithms and their implementation.
+- 🌿 I'm the founder of Nature's Note, a men's fragrance brand. I built the whole site and store myself: [naturesnotefragrances.com](https://naturesnotefragrances.com), with a [full breakdown here](https://github.com/anaygoyal7878-del/natures-note-website)
+- 🔬 I do machine learning modeling and research: [fire prediction modeling](https://github.com/anaygoyal7878-del/fire-risk-modeling), ML algorithms and their implementation.
 - 🔭 I'm interested in where software, AI and law meet.
 - 🛠️ I also build full stack apps and products across web and iOS.
 - 🌱 I'm currently working in TypeScript, React, Next.js, Node.js, Fastify, PostgreSQL, Supabase, Tailwind and Swift.
