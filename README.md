@@ -1,9 +1,9 @@
 - 👋 Hi, I'm Anay Goyal
-- 🌿 I'm the founder of Nature's Note, a men's fragrance brand. I built the whole site and store myself: [naturesnotefragrances.com](https://naturesnotefragrances.com), with a [full breakdown here](https://github.com/anaygoyal7878-del/natures-note-website)
-- 🔬 I do machine learning modeling and research: [fire prediction modeling](https://github.com/anaygoyal7878-del/fire-risk-modeling), ML algorithms and their implementation.
+- 🌿 I'm the founder of Nature's Note, a men's fragrance brand that won 1st place out of 80 teams at the SMU Cox Pitch Competition and was accepted into the 9K Club accelerator. I built the whole site and store myself: [naturesnotefragrances.com](https://naturesnotefragrances.com) ([full breakdown](https://github.com/anaygoyal7878-del/natures-note-website))
+- 🔬 I do machine learning modeling and research through an SMU research project: [fire prediction modeling](https://github.com/anaygoyal7878-del/fire-risk-modeling), ML algorithms and their implementation.
 - 🔭 I'm interested in where software, AI and law meet.
 - 🛠️ I also build full stack apps and products across web and iOS.
-- 🌱 I'm currently working in TypeScript, React, Next.js, Node.js, Fastify, PostgreSQL, Supabase, Tailwind and Swift.
+- 🌱 I'm currently working in TypeScript, Python, React, Next.js, Node.js, Fastify, PostgreSQL, SQL, Supabase, Tailwind and Swift.
 - 🎮 I'm building [MoodSync](https://github.com/anaygoyal7878-del/moodsync), which connects wearable health data to the smart home, and made [Personal Duty](https://github.com/anaygoyal7878-del/personal-duty), a pixel art history game you can [play in your browser](https://anaygoyal7878-del.github.io/personal-duty/).
 - 🤝 I'm looking for software engineering opportunities.
 - 📫 Reach me at [anay.goyal7878@gmail.com](mailto:anay.goyal7878@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/anay-goyal-4b7090382).
