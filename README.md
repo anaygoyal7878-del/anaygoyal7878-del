@@ -1,9 +1,8 @@
 - 👋 Hi, I'm Anay Goyal
-- 🌿 I'm the founder of Nature's Note, a men's fragrance brand that won 1st place out of 80 teams at the SMU Cox Pitch Competition and was accepted into the 9K Club accelerator. I built the whole site and store myself: [naturesnotefragrances.com](https://naturesnotefragrances.com) ([full breakdown](https://github.com/anaygoyal7878-del/natures-note-website))
-- 🔬 I do machine learning modeling and research through an SMU research project: [fire prediction modeling](https://github.com/anaygoyal7878-del/fire-risk-modeling), ML algorithms and their implementation.
-- 🔭 I'm interested in where software, AI and law meet.
-- 🛠️ I also build full stack apps and products across web and iOS.
+- 🛠️ I enjoy building web and iOS apps, doing research, and developing machine learning models.
+- 🔬 [Fire risk modeling](https://github.com/anaygoyal7878-del/fire-risk-modeling) is one of my machine learning projects.
+- 🌿 I built the [Nature’s Note website and online store](https://naturesnotefragrances.com) ([project breakdown](https://github.com/anaygoyal7878-del/natures-note-website)).
 - 🌱 I'm currently working in TypeScript, Python, React, Next.js, Node.js, Fastify, PostgreSQL, SQL, Supabase, Tailwind and Swift.
-- 🎮 I'm building [MoodSync](https://github.com/anaygoyal7878-del/moodsync), which connects wearable health data to the smart home, and made [Personal Duty](https://github.com/anaygoyal7878-del/personal-duty), a pixel art history game you can [play in your browser](https://anaygoyal7878-del.github.io/personal-duty/).
+- 🎮 I'm building [MoodSync](https://github.com/anaygoyal7878-del/moodsync), which connects wearable health data to the smart home.
 - 🤝 I'm looking for software engineering opportunities.
 - 📫 Reach me at [anay.goyal7878@gmail.com](mailto:anay.goyal7878@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/anay-goyal-4b7090382).
