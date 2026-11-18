@@ -11,7 +11,7 @@ made presentations and analyzed cases at a tier 1 law firm.
 built the [website and online store](https://naturesnotefragrances.com) for a natural fragrance brand ([project breakdown](https://github.com/anaygoyal7878-del/natures-note-website)).
 
 **[fire risk modeling](https://github.com/anaygoyal7878-del/fire-risk-modeling)** · machine learning project  
-a model that predicts fire risk.
+a model that predicts whether a building will fail a fire inspection.
 
 ## ![building now](profile/h2-building.svg)
 
