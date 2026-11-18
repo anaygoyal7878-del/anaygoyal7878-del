@@ -1,6 +1,6 @@
 # ![anay goyal](profile/title2.svg)
 
-![software developer building web, iOS and machine learning systems.](profile/subtitle2.svg)
+![I build web, iOS and machine learning systems.](profile/subtitle2.svg)
 
 ## ![experience](profile/h2-experience.svg)
 
