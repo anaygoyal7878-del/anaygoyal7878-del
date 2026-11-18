@@ -18,31 +18,6 @@ a model that predicts fire risk.
 **[moodsync](https://github.com/anaygoyal7878-del/moodsync)** · wearable data meets the smart home  
 reads recovery, sleep and heart rate from a wearable, decides what the environment should do, then adjusts lighting, music and notifications.
 
-```mermaid
-flowchart LR
-    A["Wearables<br/>WHOOP, Google Health, Fitbit"] --> B["Normalized<br/>daily reading"]
-    B --> C{"Decision engine<br/>rules, wellness scores,<br/>safety bounds"}
-    C --> D["Lighting<br/>Philips Hue"]
-    C --> E["Music<br/>Spotify"]
-    C --> F["Notifications"]
-    C --> G["Plain language<br/>decision log"]
-    G --> H["Weekly reports<br/>and insights"]
-```
-
-```mermaid
-flowchart TB
-    subgraph Clients
-        W["Next.js web app"]
-        I["iOS companion app<br/>HealthKit"]
-    end
-    W --> API["Fastify API<br/>auth, REST, orchestration"]
-    I --> API
-    API --> DB[("PostgreSQL<br/>Prisma")]
-    WK["Background workers<br/>data sync, decision runs"] --> DB
-    WK --> INT["Integration clients<br/>wearables, Hue, Spotify"]
-    WK --> ENG["Decision engine<br/>TypeScript"]
-```
-
 ## ![what i work with](profile/h2-stack.svg)
 
 typescript · python · react · next.js · node.js · fastify · postgresql · sql · supabase · tailwind · swift
