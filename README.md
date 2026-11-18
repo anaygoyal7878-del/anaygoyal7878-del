@@ -7,6 +7,7 @@ I enjoy building web and iOS apps, doing research, and developing machine learni
 - 🔬 [Fire risk modeling](https://github.com/anaygoyal7878-del/fire-risk-modeling) is one of my machine learning projects.
 - 🌿 I built the [Nature’s Note website and online store](https://naturesnotefragrances.com) ([project breakdown](https://github.com/anaygoyal7878-del/natures-note-website)).
 - 🎮 I'm building [MoodSync](https://github.com/anaygoyal7878-del/moodsync), which connects wearable health data to the smart home.
+- ⚖️ I interned at Trilegal.
 
 ---
 
