@@ -1,18 +1,22 @@
-# ![Anay Goyal](profile/name.svg)
+# ![anay goyal](profile/name.svg)
 
-Software developer building web and iOS applications and machine learning systems, with a focus on health technology and applied research.
+![software developer building web, iOS and machine learning systems.](profile/tagline.svg)
 
-## ![Experience](profile/experience.svg)
+## ![experience](profile/experience.svg)
 
-- 🔬 [Fire risk modeling](https://github.com/anaygoyal7878-del/fire-risk-modeling) is one of my machine learning projects.
-- 🌿 I built the [Nature’s Note website and online store](https://naturesnotefragrances.com) ([project breakdown](https://github.com/anaygoyal7878-del/natures-note-website)).
-- ⚖️ I interned at Trilegal, a tier 1 law firm, where I made presentations and analyzed cases.
+**trilegal** · intern  
+made presentations and analyzed cases at a tier 1 law firm.
 
-## ![Currently Building](profile/building.svg)
+**nature's note** · founder  
+built the [website and online store](https://naturesnotefragrances.com) for a natural fragrance brand ([project breakdown](https://github.com/anaygoyal7878-del/natures-note-website)).
 
-**[MoodSync](https://github.com/anaygoyal7878-del/moodsync)** connects a person's wearable health data to the smart home they already own. It reads biometric signals such as recovery, sleep and heart rate, decides what the environment should do, and then adjusts lighting, music and notifications.
+**[fire risk modeling](https://github.com/anaygoyal7878-del/fire-risk-modeling)** · machine learning project  
+a model that predicts fire risk.
 
-**How a reading becomes an action**
+## ![building now](profile/building.svg)
+
+**[moodsync](https://github.com/anaygoyal7878-del/moodsync)** · wearable data meets the smart home  
+reads recovery, sleep and heart rate from a wearable, decides what the environment should do, then adjusts lighting, music and notifications.
 
 ```mermaid
 flowchart LR
@@ -24,8 +28,6 @@ flowchart LR
     C --> G["Plain language<br/>decision log"]
     G --> H["Weekly reports<br/>and insights"]
 ```
-
-**System architecture**
 
 ```mermaid
 flowchart TB
@@ -41,10 +43,8 @@ flowchart TB
     WK --> ENG["Decision engine<br/>TypeScript"]
 ```
 
-Stack: TypeScript, Next.js, Fastify, PostgreSQL, Prisma and Swift. See the [full write up](https://github.com/anaygoyal7878-del/moodsync).
+## ![what i work with](profile/stack.svg)
 
----
+typescript · python · react · next.js · node.js · fastify · postgresql · sql · supabase · tailwind · swift
 
-- 🌱 I'm currently working in TypeScript, Python, React, Next.js, Node.js, Fastify, PostgreSQL, SQL, Supabase, Tailwind and Swift.
-- 🤝 I'm looking for software engineering opportunities.
-- 📫 Reach me at [anay.goyal7878@gmail.com](mailto:anay.goyal7878@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/anay-goyal-4b7090382).
+looking for software engineering opportunities. reach me at [anay.goyal7878@gmail.com](mailto:anay.goyal7878@gmail.com) or on [linkedin](https://www.linkedin.com/in/anay-goyal-4b7090382).
