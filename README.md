@@ -1,8 +1,8 @@
-# ![anay goyal](profile/title.svg)
+# ![anay goyal](profile/title2.svg)
 
-![software developer building web, iOS and machine learning systems.](profile/subtitle.svg)
+![software developer building web, iOS and machine learning systems.](profile/subtitle2.svg)
 
-## ![experience](profile/h-experience.svg)
+## ![experience](profile/h2-experience.svg)
 
 **trilegal** · intern  
 made presentations and analyzed cases at a tier 1 law firm.
@@ -13,7 +13,7 @@ built the [website and online store](https://naturesnotefragrances.com) for a na
 **[fire risk modeling](https://github.com/anaygoyal7878-del/fire-risk-modeling)** · machine learning project  
 a model that predicts fire risk.
 
-## ![building now](profile/h-building.svg)
+## ![building now](profile/h2-building.svg)
 
 **[moodsync](https://github.com/anaygoyal7878-del/moodsync)** · wearable data meets the smart home  
 reads recovery, sleep and heart rate from a wearable, decides what the environment should do, then adjusts lighting, music and notifications.
@@ -43,7 +43,7 @@ flowchart TB
     WK --> ENG["Decision engine<br/>TypeScript"]
 ```
 
-## ![what i work with](profile/h-stack.svg)
+## ![what i work with](profile/h2-stack.svg)
 
 typescript · python · react · next.js · node.js · fastify · postgresql · sql · supabase · tailwind · swift
 
