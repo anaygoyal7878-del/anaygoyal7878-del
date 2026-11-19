@@ -18,8 +18,8 @@ a model that predicts whether a building will fail a fire inspection.
 **[moodsync](https://github.com/anaygoyal7878-del/moodsync)** · wearable data meets the smart home  
 reads recovery, sleep and heart rate from a wearable, decides what the environment should do, then adjusts lighting, music and notifications.
 
-## ![what i work with](profile/h2-stack.svg)
+## ![skills i use](profile/h2-stack.svg)
 
 typescript · python · react · next.js · node.js · fastify · postgresql · sql · supabase · tailwind · swift
 
-looking for software engineering opportunities. reach me at [anay.goyal7878@gmail.com](mailto:anay.goyal7878@gmail.com) or on [linkedin](https://www.linkedin.com/in/anay-goyal-4b7090382).
+i’m looking for research and software engineering opportunities. if you’re building something cool, i’d love to hear about it. reach me at [anay.goyal7878@gmail.com](mailto:anay.goyal7878@gmail.com) or on [linkedin](https://www.linkedin.com/in/anay-goyal-4b7090382).
