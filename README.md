@@ -18,7 +18,7 @@ a model that predicts whether a building will fail a fire inspection.
 **[moodsync](https://github.com/anaygoyal7878-del/moodsync)** · wearable data meets the smart home  
 reads recovery, sleep and heart rate from a wearable, decides what the environment should do, then adjusts lighting, music and notifications.
 
-## ![skills i use](profile/h2-stack.svg)
+## ![skills i use](profile/h2-skills.svg)
 
 typescript · python · react · next.js · node.js · fastify · postgresql · sql · supabase · tailwind · swift
 
