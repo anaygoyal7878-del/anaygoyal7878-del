@@ -8,15 +8,15 @@
 made presentations and analyzed cases at a tier 1 law firm. reviewed open source software (OSS) licenses like GPL, MIT and Apache during tech M&A deals to flag compliance risks.
 
 **nature's note** · founder  
-built the [website and online store](https://naturesnotefragrances.com) for a natural fragrance brand ([project breakdown](https://github.com/anaygoyal7878-del/natures-note-website)). pitched the brand on an international stage for funding.
-
-**[fire risk modeling](https://github.com/anaygoyal7878-del/fire-risk-modeling)** · machine learning project  
-a model that predicts whether a building will fail a fire inspection.
+built the [website and online store](https://naturesnotefragrances.com) for a natural fragrance brand ([project breakdown](https://github.com/anaygoyal7878-del/natures-note-website)). pitched on an international stage, earning funding for expansion efforts.
 
 ## ![building now](profile/h2-building.svg)
 
 **[moodsync](https://github.com/anaygoyal7878-del/MoodSync-Showcase)** · wearable data meets the smart home  
 reads recovery, sleep and heart rate from a wearable, decides what the environment should do, then adjusts lighting, music and notifications.
+
+**[fire risk modeling](https://github.com/anaygoyal7878-del/fire-risk-modeling)** · machine learning project  
+a model that predicts whether a building will fail a fire inspection.
 
 ## ![skills i use](profile/h2-skills.svg)
 
