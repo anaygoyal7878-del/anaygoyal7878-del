@@ -5,7 +5,7 @@
 ## ![experience](profile/h2-experience.svg)
 
 **trilegal** · intern  
-prepared presentations and conducted case analysis at a tier 1 law firm.
+prepared presentations and conducted case analysis at a nationally ranked tier 1 law firm.
 
 **nature's note** · founder  
 built the [website and online store](https://naturesnotefragrances.com) for a natural fragrance brand ([project breakdown](https://github.com/anaygoyal7878-del/natures-note-website)). pitched on an international stage, earning funding for expansion efforts.
