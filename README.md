@@ -15,7 +15,7 @@ a model that predicts whether a building will fail a fire inspection.
 
 ## ![building now](profile/h2-building.svg)
 
-**[moodsync](https://github.com/anaygoyal7878-del/moodsync)** · wearable data meets the smart home  
+**[moodsync](https://github.com/anaygoyal7878-del/MoodSync-Showcase)** · wearable data meets the smart home  
 reads recovery, sleep and heart rate from a wearable, decides what the environment should do, then adjusts lighting, music and notifications.
 
 ## ![skills i use](profile/h2-skills.svg)
