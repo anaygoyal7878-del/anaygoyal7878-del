@@ -5,7 +5,7 @@
 ## ![experience](profile/h2-experience.svg)
 
 **trilegal** · intern  
-made presentations and analyzed cases at a tier 1 law firm. reviewed open source software (OSS) licenses like GPL, MIT and Apache during tech M&A deals to flag compliance risks.
+made presentations and analyzed cases at a tier 1 law firm. reviewed open source software (OSS) licenses like GPL, MIT and Apache to flag compliance risks.
 
 **nature's note** · founder  
 built the [website and online store](https://naturesnotefragrances.com) for a natural fragrance brand ([project breakdown](https://github.com/anaygoyal7878-del/natures-note-website)). pitched on an international stage, earning funding for expansion efforts.
